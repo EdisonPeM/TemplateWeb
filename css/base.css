@@ -1,0 +1,13 @@
+:root {
+    --black: #222;
+    --bg: #eee;
+}
+
+* {
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+body {
+    margin: 0;
+}

@@ -1,0 +1,27 @@
+/* Sans Serif */
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf)
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+
+/* Serif */
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url(../fonts/Roboto_Slab/static/RobotoSlab-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url(../fonts/Playfair_Display/static/PlayfairDisplay-Regular.ttf);
+}
+
+/* Hand Writting */
+@font-face {
+    font-family: 'Patrick Hand';
+    src: url(../fonts/Patrick_Hand/PatrickHand-Regular.ttf);
+}
